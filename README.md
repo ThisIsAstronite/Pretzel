@@ -1,8 +1,17 @@
-# Pretzel Injector for Valorant (Python)
+# 🌟 Pretzel Injector for Valorant (Python) 🌟
 
-**Pretzel** is a Python-based injector designed for **educational** and **ethical** purposes only. It allows users to experiment with and understand the inner workings of game memory manipulation and code injection techniques. This tool is strictly for learning how to analyze and explore game mechanics, and it should never be used for cheating, exploiting, or disrupting any gaming environment. 
+**Pretzel** is a **Python-based injector** crafted for **educational** and **ethical** purposes only. It allows users to dive deep into the world of game memory manipulation and code injection techniques, offering a safe space for learning and exploration. **Please note**, this tool is **not** intended for cheating, exploiting, or disrupting any gaming environment.
 
-Users are encouraged to only use Pretzel in environments where they have explicit permission, such as personal test environments, to ensure the integrity and fairness of online multiplayer games like Valorant.
+## ⚡ Features:
+- **Python-based**: Easy to understand and customize.
+- **Educational**: Learn how game mechanics and memory manipulation work.
+- **Ethical Use**: Only for testing and educational purposes in controlled environments.
 
-> **Important:**  
-> The use of any injector or similar tools in a live gaming environment may result in account bans or other disciplinary actions. Always prioritize **ethical behavior** and respect the rules set by game developers.
+## 🚨 Warning:
+- **Never use Pretzel in live games** like Valorant or any other multiplayer platform unless you have explicit permission to do so.
+- **Account bans or disciplinary actions** may result from misuse.
+
+## 📝 Reminder:
+Pretzel is built with the intent to promote ethical hacking and learning. Always **respect the developers** and follow the rules for a positive gaming community.
+
+> "Knowledge is power, but ethical use of that power is wisdom." 🌐
