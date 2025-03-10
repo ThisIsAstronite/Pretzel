@@ -1,2 +1,7 @@
-# Pretzel
-Pretzel Website
+# Pretzel ( Python )
+
+
+*For pretzels, by pretzels*
+
+----------------------------------------------------
+
