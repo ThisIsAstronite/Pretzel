@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pretzel - One step for reality</title>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Anton', sans-serif;
+      background-color: white;
+      color: black;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      overflow: hidden;
+      position: relative;
+    }
+
+    h1 {
+      font-size: 4rem;
+      font-weight: bold;
+      letter-spacing: 1.5px;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+    }
+
+    p {
+      font-size: 1.5rem;
+      margin-bottom: 40px;
+      font-weight: 300;
+    }
+
+    .download-btn {
+      padding: 15px 40px;
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      color: white;
+      background-color: black;
+      border: 2px solid black;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .download-btn:hover {
+      background-color: white;
+      color: black;
+    }
+
+    .snowflake {
+      position: absolute;
+      top: -10px;
+      color: black;
+      font-size: 1.5rem;
+      user-select: none;
+      pointer-events: none;
+      animation: snow 10s linear infinite;
+    }
+
+    @keyframes snow {
+      0% {
+        transform: translateY(-10vh) rotate(0deg);
+      }
+      100% {
+        transform: translateY(100vh) rotate(360deg);
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Pretzel, One step for reality</h1>
+  <p>Inject into valorant without a hitch.</p>
+
+  <a class="download-btn" download>Download Now</a>
+
+  <script>
+    function createSnowflakes() {
+      const numberOfSnowflakes = 50;
+      for (let i = 0; i < numberOfSnowflakes; i++) {
+        let snowflake = document.createElement('div');
+        snowflake.textContent = '•';
+        snowflake.classList.add('snowflake');
+        snowflake.style.left = `${Math.random() * 100}vw`;
+        snowflake.style.animationDuration = `${Math.random() * 3 + 7}s`;
+        snowflake.style.animationDelay = `${Math.random() * 5}s`;
+        document.body.appendChild(snowflake);
+      }
+    }
+
+    createSnowflakes();
+  </script>
+</body>
+</html>
