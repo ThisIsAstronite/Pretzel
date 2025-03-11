@@ -1,3 +1,5 @@
+![Pretzelt](https://imgur.com/a/dE010mL)
+
 #  Pretzel Injector for Valorant (Python) 
 #  Made by Astr!
 
