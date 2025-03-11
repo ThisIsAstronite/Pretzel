@@ -4,8 +4,7 @@
 **Pretzel** is a **Python-based injector** crafted for **educational** and **ethical** purposes only. It allows the injection of Dynamic Link Library's into the Valorant game.
 
 ##  Features:
-- **Python-based**: Easy to understand and customize.
-- **Educational**: Learn how game mechanics and memory manipulation work
+- **Python-based**: I'd say pretty fast.
 - **Ethical Use**: Only for testing and educational purposes in controlled environments.
 
 ##  Warning:
