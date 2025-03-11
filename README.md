@@ -1,5 +1,5 @@
-[image-removebg-preview.png](https://postimg.cc/Kk0W3rz5)
 
+![Logo](https://github.com/user-attachments/assets/1af8462a-908f-42c4-9477-eb373b1b7f0e)
 
 #  Pretzel Injector for Valorant (Python) 
 #  Made by Astr!
