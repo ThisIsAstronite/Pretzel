@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/user-attachments/assets/068e7d80-a4dd-40a4-84b0-b1b2b6187f02)
 
-<img src="https://imgur.com/a/RSue69F">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RSue69F" data-context="false" ><a href="//imgur.com/a/RSue69F"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 #  Pretzel Injector for Valorant (Python) 
 #  Made by Astr!
