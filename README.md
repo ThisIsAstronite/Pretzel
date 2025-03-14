@@ -1,14 +1,11 @@
 
 ![Logo](https://github.com/user-attachments/assets/068e7d80-a4dd-40a4-84b0-b1b2b6187f02)
 
+![Test](https://imgur.com/a/RSue69F)
 #  Pretzel Injector for Valorant (Python) 
 #  Made by Astr!
 
 **Pretzel** is a **Python-based injector** crafted for **educational** and **ethical** purposes only. It allows the injection of Dynamic Link Library's into the Valorant game.
-
-##  Features:
-- **Python-based**: I'd say pretty fast.
-- **Ethical Use**: Only for testing and educational purposes in controlled environments.
 
 ##  Warning:
 - **Never use Pretzel in live games** Pretzel does NOT condone any type of live online cheating, nor cheating in any sort of way. do NOT use this online.
