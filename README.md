@@ -1,5 +1,5 @@
 
-![LogoPretzel](https://github.com/user-attachments/assets/ca7d8f4a-7691-44b5-ae21-ec165bd58244)
+![Logo](https://github.com/user-attachments/assets/068e7d80-a4dd-40a4-84b0-b1b2b6187f02)
 
 #  Pretzel Injector for Valorant (Python) 
 #  Made by Astr!
