@@ -15,4 +15,7 @@
 Pretzel is built with the intent to promote ethical testing. do not abuse it.
 The developer of Pretzel doesn't condone game cheating online.
 
-> "Knowledge is power, but ethical use of that power is wisdom." 
+> "Knowledge is power, but ethical use of that power is wisdom."
+
+
+![Final](https://github.com/user-attachments/assets/79f3124a-056f-49f7-a000-35ad04f9a878)
